@@ -2,9 +2,7 @@
 layout: post
 title: Create Personal Website and Blog on GitHub
 subtitle: GitHub로 개인 웹사이트 및 블로그 만들기
-gh-repo: dongyeon99/dongyeon99.github.io
-gh-badge: [star, fork, follow]
-cover-img: /assets/img/In_Swiss.jpg
+tags: [website, github]
 comments: true
 ---
 
