@@ -20,7 +20,8 @@ author: Dongyeon Nam
 navbar-links:
   Home: "https://dongyeon99.github.io"
   Career: "career"
-  Publication: "publication"
+  RESEARCH INTERESTS: "research_interests"
+#  Publication: "publication"
   Blog: "blog"
   Project: "project"
   GitHub: "https://github.com/dongyeon99"
