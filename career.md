@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Career
+title: Career
 ---
 
 <br/>
