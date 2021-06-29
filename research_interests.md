@@ -3,6 +3,10 @@ layout: page
 title: RESERACH INTERESTS
 ---
 
-I inetersted in 
+## Bio Artificial Intelligence
 
-research interests
+<br/>
+
+## Next-Generation Sequencing (NGS)
+
+
