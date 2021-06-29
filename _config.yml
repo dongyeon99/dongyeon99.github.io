@@ -24,6 +24,11 @@ navbar-links:
   Project: "project"
   CV: "/assets/cv/cv_v1.pdf"
 #  Publication: "publication"
+  Category:
+    - Python: "/category/Python"
+    - R: "/category/R"
+    - Linux: "/category/Linux"
+    - ETC: "/category/Etc"
   Blog: "blog"
   GitHub: "https://github.com/dongyeon99"
   
