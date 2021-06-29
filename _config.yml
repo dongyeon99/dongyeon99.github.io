@@ -23,7 +23,7 @@ navbar-links:
   RESEARCH INTERESTS: "research_interests"
   CV: "/assets/cv/cv_v1.pdf"
 #  Publication: "publication"
-#  Project: "project"
+  Project: "project"
   Blog: "blog"
   GitHub: "https://github.com/dongyeon99"
   
