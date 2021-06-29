@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Cloud
-subtitle: This is where I will tell my friends way too much about me
+subtitle: This is where I will tell people way about me
 cover-img: /assets/img/In_Budapest.jpg
 ---
 
@@ -9,7 +9,7 @@ cover-img: /assets/img/In_Budapest.jpg
 
 ## About me
 
-I am undergrudate student in soongsil University.
+I am an undergraduate student in Department of Bioinformatics and Bioengineering, Soongsil University.  While attending undergraduate classes and working as a research intern, I became interested Genomic analysis, next-generation sequencing (NGS), Bio Artificial Intelligence, ML 
 
 
 ## Contact
