@@ -32,12 +32,12 @@ title: Career
 # Personal Project (Undergraduate Course)
 
 #### 1. Genome-Wide association study identifies genetic susceptibility loci about DNA repair activated by oxidative stress. (Practice of Biostatistics, 2020)
-  * Contributor of [project/GWAS](https://github.com/dongyeon99/dongyeon99.github.io/assets/project/Practice_of_Biostatistics.pdf)
-  * Contributor of [project/Supplementary](https://github.com/dongyeon99/dongyeon99.github.io/assets/project/Practice_of_Biostatistics_Supplementary.pdf)
+  * Contributor of [project/GWAS](https://github.com/dongyeon99/dongyeon99.github.io/assets/project/)
+  * Contributor of [project/Supplementary](https://github.com/dongyeon99/dongyeon99.github.io/assets/project/)
 
 
 #### 2.	CNN (Separable Conv2D) for identifying Invasive Ductal Carcinoma. (Bio Artificial Intelligence, 2021)
-  * Contributor of [project/cnn](https://github.com/dongyeon99/dongyeon99.github.io/assets/project/CNN(Separable Conv2D)_for_identifying_Invasive_Ductal_Carcinoma.pdf)
+  * Contributor of [project/CNN](https://github.com/dongyeon99/dongyeon99.github.io/assets/project/)
 
 
 
