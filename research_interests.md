@@ -3,10 +3,10 @@ layout: page
 title: RESERACH INTERESTS
 ---
 
-## Bio Artificial Intelligence
+### Bio Artificial Intelligence
 
 <br/>
 
-## Next-Generation Sequencing (NGS)
+### Next-Generation Sequencing (NGS)
 
 
