@@ -2,7 +2,6 @@
 layout: post
 title: Create Personal Website and Blog on GitHub
 subtitle: GitHub로 개인 웹사이트 및 블로그 만들기
-categories:[Etc]
 tags: [website, github]
 comments: true
 ---
