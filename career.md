@@ -32,7 +32,7 @@ title: Career
 # Personal Project (Undergraduate Course)
 
 #### 1. Genome-Wide association study identifies genetic susceptibility loci about DNA repair activated by oxidative stress. (Practice of Biostatistics, 2020)
-  * Contributor of [project/GWAS](https://github.com/dongyeon99/dongyeon99.github.io/assets/project/)
+  * [Click to view]("/assets/project/Practice_of_Biostatistics.pdf")
   * Contributor of [project/Supplementary](https://github.com/dongyeon99/dongyeon99.github.io/assets/project/)
 
 
