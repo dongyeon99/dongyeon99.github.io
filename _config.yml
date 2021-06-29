@@ -21,9 +21,9 @@ navbar-links:
   Home: "https://dongyeon99.github.io"
   Career: "career"
   RESEARCH INTERESTS: "research_interests"
+  Project: "project"
   CV: "/assets/cv/cv_v1.pdf"
 #  Publication: "publication"
-  Project: "project"
   Blog: "blog"
   GitHub: "https://github.com/dongyeon99"
   
