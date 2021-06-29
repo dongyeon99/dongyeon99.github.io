@@ -8,8 +8,8 @@ title: Career
 # Education
 ### Soongsil University
 #### Seoul, Korea
-#### Mar.2015 - Present
-#### Department of Bioinformatics and Life Science
+#### Mar.2015 - Present, Undergraduate
+#### Bachelor of Science in School of Systems Biomedical Science
 
 <br/>
 
