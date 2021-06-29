@@ -37,7 +37,7 @@ title: Career
 
 
 #### 2.	CNN (Separable Conv2D) for identifying Invasive Ductal Carcinoma. (Bio Artificial Intelligence, 2021)
-  * Contributor of [project/CNN](https://github.com/dongyeon99/dongyeon99.github.io/assets/project/CNN(Separable Conv2D)_for_identifying_Invasive_Ductal_Carcinoma.pdf)
+  * Contributor of [project/cnn](https://github.com/dongyeon99/dongyeon99.github.io/assets/project/CNN(Separable Conv2D)_for_identifying_Invasive_Ductal_Carcinoma.pdf)
 
 
 
