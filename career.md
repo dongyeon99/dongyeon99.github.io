@@ -19,5 +19,18 @@ title: Career
 #### Undergraduate Research Assistants, Mar.2021 - Present
 #### Advisor: Prof. Je-Keun Rhee
 
+<br/>
+
+# Skill And Techniques
+### Software Language
+#### R, Python
+### Computer Skill
+#### Linux
+
+<br/>
+
+# Personal Project (Undergraduate Course)
+#### 1. Genome-Wide association study identifies genetic susceptibility loci about DNA repair activated by oxidative stress. (Practice of Biostatistics, 2020)
+#### 2.	CNN (Separable Conv2D) for identifying Invasive Ductal Carcinoma. (Bio Artificial Intelligence, 2021)
 
 
