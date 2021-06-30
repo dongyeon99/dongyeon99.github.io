@@ -19,16 +19,15 @@ author: Dongyeon Nam
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
   Home: "https://dongyeon99.github.io"
-  Career: "career"
-  RESEARCH INTERESTS: "research_interests"
-  Project: "project"
-  CV: "/assets/cv/cv_v1.pdf"
+#  Career: "career"
+#  RESEARCH INTERESTS: "research_interests"
+#  Project: "project"
 #  Publication: "publication" 
   About:
     - Career: "/About/career"
     - Research Interests: "/About/research_interests"
     - Project: "/About/project"
-    - CV: "/About/cv"
+  CV: "/assets/cv/cv_v1.pdf"
   Category:
     - Python: "/category/Python"
     - R: "/category/R"
