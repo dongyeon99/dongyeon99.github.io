@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 연구데이터 공개플랫폼 `figshare`
-subtitle: 연구데이터 공개플랫폼 `figshare`
+title: Research Data Platform: `figshare`
+subtitle: Solving the research data management problem for educational research institutions.
 categories: [Etc]
 tags: [website, figshare]
 comments: true
