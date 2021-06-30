@@ -23,7 +23,12 @@ navbar-links:
   RESEARCH INTERESTS: "research_interests"
   Project: "project"
   CV: "/assets/cv/cv_v1.pdf"
-#  Publication: "publication"
+#  Publication: "publication" 
+  About:
+    - Career: "/About/career"
+    - Research Interests: "/About/research_interests"
+    - Project: "/About/project"
+    - CV: "/About/cv"
   Category:
     - Python: "/category/Python"
     - R: "/category/R"
