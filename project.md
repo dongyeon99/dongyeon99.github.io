@@ -5,7 +5,6 @@ title: Project
 
 <br/>
 
-
 # Personal Project (Undergraduate Course)
 
 #### 1. Genome-Wide association study identifies genetic susceptibility loci about DNA repair activated by oxidative stress. (Practice of Biostatistics, 2020)
