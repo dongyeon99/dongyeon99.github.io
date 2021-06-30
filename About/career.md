@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: page
 title: Career
 permalink: About/career
 ---
