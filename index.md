@@ -9,7 +9,7 @@ cover-img: /assets/img/In_Budapest.jpg
 
 ## About me
 
-I am an undergraduate student in Department of Systems Biomedical Science, Soongsil University.  While attending undergraduate classes and working as a research intern, I became interested Genomic analysis, next-generation sequencing (NGS), Bio Artificial Intelligence and ML 
+I am an undergraduate student in Department of Systems Biomedical Science, Soongsil University.  While attending undergraduate classes and working as a research intern, I became interested Genomic analysis, next-generation sequencing (NGS), Bio Artificial Intelligence and Machine Learning 
 
 <br/>
 
