@@ -5,7 +5,7 @@ title: RESERACH INTERESTS
 
 <br/>
 
-### Bio Artificial Intelligence, ML
+### Bio Artificial Intelligence, Machine Learning
 
 <br/>
 
