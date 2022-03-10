@@ -10,7 +10,7 @@ permalink: About/career
 # Education
 ### Soongsil University
 #### Seoul, Korea
-#### Mar.2015 - Present, Undergraduate
+#### Mar.2015 - Feb.2022, Graduate
 #### Bachelor of Science in School of Systems Biomedical Science
 
 <br/>
@@ -18,7 +18,8 @@ permalink: About/career
 # Research Experience
 
 ###  Biomedical Data Science Laboratory, Soongsil University (SSU)
-#### Undergraduate Research Assistants, Mar.2021 - Present
+#### Undergraduate Research Assistants, Mar.2021 - Feb.2022
+#### Research Assistants, Feb.2022 - 
 #### Advisor: Prof. Je-Keun Rhee
 
 <br/>
