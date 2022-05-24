@@ -19,7 +19,7 @@ permalink: About/career
 
 ###  Biomedical Data Science Laboratory, Soongsil University (SSU)
 #### Undergraduate Research Assistant, Mar.2021 - Feb.2022
-#### Researcher, Feb.2022 - 
+#### Researcher, Mar.2022 - present
 #### Advisor: Prof. Je-Keun Rhee
 
 <br/>
