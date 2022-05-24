@@ -16,3 +16,11 @@ permalink: About/project
 #### 2.	CNN (Separable Conv2D) for identifying Invasive Ductal Carcinoma. (Bio Artificial Intelligence, 2021)
   * [Click to view](/assets/project/CNN(Separable Conv2D)_for_identifying_Invasive_Ductal_Carcinoma.pdf)
 
+<br/>
+
+# Personal Project (Researcher)
+
+#### 1. Assessment of MicroRNAs Associated with Tumor Purity by Random Forest Regression. (Biology, 11:787, 2022)
+  * [Click to view](/assets/project/Practice_of_Biostatistics.pdf) 
+
+
