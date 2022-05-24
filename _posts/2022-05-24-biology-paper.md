@@ -2,7 +2,7 @@
 layout: post
 title: New Paper Published!!
 subtitle: Biology 2022, 11(5), 787; https://doi.org/10.3390/biology11050787
-categories: [ETC]
+categories: [Etc]
 tags: [Paper, miRNA, machine learning]
 comments: true
 ---
