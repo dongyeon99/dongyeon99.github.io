@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Career
+title: CAREER
 permalink: About/career
 ---
 
