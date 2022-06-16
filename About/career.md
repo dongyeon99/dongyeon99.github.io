@@ -12,6 +12,7 @@ permalink: About/career
 #### Seoul, Korea
 #### Mar.2015 - Feb.2022, Graduate
 #### Bachelor of Science in School of Systems Biomedical Science
+#### B.S. Major: Bioinformatics and Biotechnology
 
 <br/>
 
