@@ -27,7 +27,7 @@ navbar-links:
     - Career: "/About/career"
     - Research Interests: "/About/research_interests"
     - Project: "/About/project"
-  CV: "/assets/cv/cv_v2.pdf"
+  CV: "/assets/cv/cv_v3.pdf"
   Category:
     - Python: "/category/Python"
     - R: "/category/R"
