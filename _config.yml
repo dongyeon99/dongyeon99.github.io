@@ -33,6 +33,7 @@ navbar-links:
     - Python: "/category/Python"
     - R: "/category/R"
     - Linux: "/category/Linux"
+    - ML: "/category/ML"
     - ETC: "/category/Etc"
   Blog: "blog"
   GitHub: "https://github.com/dongyeon99"
