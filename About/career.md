@@ -32,3 +32,13 @@ permalink: About/career
 #### Linux
 
 <br/>
+
+# WorkShop & Conference
+
+### 16th Asian Institute in Statistical Genetics and Genomics Workshop
+#### July 18 (Mon) - 23 (Sat), 2022
+#### PROGRAM: 3D Epigenome Data Analysis & Machine Learning for Bio-data Mining
+
+<br/>
+
+
