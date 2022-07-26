@@ -19,8 +19,8 @@ permalink: About/career
 # Research Experience
 
 ###  Biomedical Data Science Laboratory, Soongsil University (SSU)
-#### Undergraduate Research Assistant, Mar.2021 - Feb.2022
-#### Researcher, Mar.2022 - present
+#### <li> Undergraduate Research Assistant, Mar.2021 - Feb.2022 </li>
+#### <li> Researcher, Mar.2022 - present </li>
 #### Advisor: Prof. Je-Keun Rhee
 
 <br/>
@@ -35,9 +35,9 @@ permalink: About/career
 
 # WorkShop & Conference
 
-### 16th Asian Institute in Statistical Genetics and Genomics Workshop
-#### July 18 (Mon) - 23 (Sat), 2022
-#### PROGRAM: 3D Epigenome Data Analysis & Machine Learning for Bio-data Mining
+### <li> 16th Asian Institute in Statistical Genetics and Genomics Workshop </li> 
+##### July 18 (Mon) - 23 (Sat), 2022
+##### PROGRAM: 3D Epigenome Data Analysis & Machine Learning for Bio-data Mining
 
 <br/>
 
