@@ -26,7 +26,7 @@ permalink: About/career
 <br/>
 
 # Skill And Techniques
-###  Software Language
+### Software Language
 ####  R, Python
 ### Computer Skill
 #### Linux
@@ -36,8 +36,8 @@ permalink: About/career
 # WorkShop & Conference
 
 ### ㆍ16th Asian Institute in Statistical Genetics and Genomics Workshop 
-#####   July 18 (Mon) - 23 (Sat), 2022
-#####   PROGRAM: 3D Epigenome Data Analysis & Machine Learning for Bio-data Mining
+##### July 18 (Mon) - 23 (Sat), 2022
+##### PROGRAM: 3D Epigenome Data Analysis & Machine Learning for Bio-data Mining
 
 <br/>
 
