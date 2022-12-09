@@ -31,6 +31,16 @@ permalink: About/career
 ### Computer Skill
 #### Linux
 
+
+<br/>
+
+# Awards
+
+### ㆍ This year's Natural Sciences Encouragement Award
+##### December 9 (Fri), 2022
+##### College of Natural Sciences, Soonsil University 
+
+
 <br/>
 
 # WorkShop & Conference
@@ -38,6 +48,10 @@ permalink: About/career
 ### ㆍ16th Asian Institute in Statistical Genetics and Genomics Workshop 
 ##### July 18 (Mon) - 23 (Sat), 2022
 ##### PROGRAM: 3D Epigenome Data Analysis & Machine Learning for Bio-data Mining
+
+### ㆍ2022 Annual Conference of Korean Society for Bioinformatics
+##### October 19 (Wed) - 21 (Fri), 2022
+##### KAIST, Daejeon, Korea
 
 <br/>
 
