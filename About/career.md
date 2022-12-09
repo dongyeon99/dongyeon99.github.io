@@ -8,11 +8,19 @@ permalink: About/career
 <br/>
 
 # Education
+
 ### Soongsil University
 #### Seoul, Korea
 #### Mar.2015 - Feb.2022, Graduate
 #### Bachelor of Science in School of Systems Biomedical Science
 #### B.S. Major: Bioinformatics and Biotechnology
+
+
+### Soongsil University
+#### Seoul, Korea
+#### Sep.2022 - present, Ungraduate
+#### Master of Science in School of Bioinfomatics
+
 
 <br/>
 
@@ -36,7 +44,7 @@ permalink: About/career
 
 # Awards
 
-### ㆍ This year's Natural Sciences Encouragement Award
+### ㆍ This year's Natural Science Research Encouragement Award
 ##### December 9 (Fri), 2022
 ##### College of Natural Sciences, Soonsil University 
 
