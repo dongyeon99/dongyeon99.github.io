@@ -46,7 +46,7 @@ permalink: About/career
 
 ### ㆍ This year's Natural Science Research Encouragement Award
 ##### December 9 (Fri), 2022
-##### College of Natural Sciences, Soonsil University 
+##### College of Natural Sciences, Soongsil University 
 
 
 <br/>
@@ -55,6 +55,7 @@ permalink: About/career
 
 ### ㆍ16th Asian Institute in Statistical Genetics and Genomics Workshop 
 ##### July 18 (Mon) - 23 (Sat), 2022
+##### Seoul National University, Global Education Center For Engineers
 ##### PROGRAM: 3D Epigenome Data Analysis & Machine Learning for Bio-data Mining
 
 ### ㆍ2022 Annual Conference of Korean Society for Bioinformatics
