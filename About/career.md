@@ -58,9 +58,17 @@ permalink: About/career
 ##### Seoul National University, Global Education Center For Engineers
 ##### PROGRAM: 3D Epigenome Data Analysis & Machine Learning for Bio-data Mining
 
+
 ### ㆍ2022 Annual Conference of Korean Society for Bioinformatics
 ##### October 19 (Wed) - 21 (Fri), 2022
 ##### KAIST, Daejeon, Korea
+
+
+### ㆍThe 19th KOGO Winter Symposium
+##### February 01 (Wed) - 03 (Fri), 2023
+##### Vivaldi Park, Hongcheon-gun, Gangwon-do, Korea
+##### Workshop: Shotgun Metagenomics Analysis
+
 
 <br/>
 
