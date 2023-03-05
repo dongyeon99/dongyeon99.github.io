@@ -12,9 +12,16 @@ permalink: About/project
   * [Click to view](/assets/project/Practice_of_Biostatistics.pdf) 
   * [Supplementary](/assets/project/Practice_of_Biostatistics_Supplementary.pdf)
 
-
 #### 2.	CNN (Separable Conv2D) for identifying Invasive Ductal Carcinoma. (Bio Artificial Intelligence, 2021)
   * [Click to view](/assets/project/CNN(Separable Conv2D)_for_identifying_Invasive_Ductal_Carcinoma.pdf)
+
+
+<br/>
+
+# Team Project
+
+#### 1. Development of next-generation genomic application technology for 4D-nucleome-based cardiomyopathy. (Sep.2022 - Present)
+
 
 <br/>
 
