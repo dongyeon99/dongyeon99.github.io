@@ -34,4 +34,4 @@ Keywords: tumor purity; tumor microenvironment; microRNA; machine learning; rand
 <br/>
 
   * [Click to view (Paper)](https://www.mdpi.com/2079-7737/11/5/787) 
-  * [Click to view (Github)]((https://github.com/dongyeon99/ML_tumor_purity) 
+  * [Click to view (Github)](https://github.com/dongyeon99/ML_tumor_purity) 
