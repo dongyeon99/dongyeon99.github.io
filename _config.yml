@@ -7,7 +7,7 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: BS. Dongyeon Nam
+title: MS. Dongyeon Nam
 
 # [수정필요] 간단한 사이트 설명
 description: Acedemic Website of Dongyeon Nam
@@ -28,7 +28,7 @@ navbar-links:
     - Research Interests: "/About/research_interests"
     - Project: "/About/project"
     - publication: "/About/publication"
-  CV: "/assets/cv/cv_v4.pdf"
+  CV: "/assets/cv/cv.pdf"
   Category:
     - Python: "/category/Python"
     - R: "/category/R"
