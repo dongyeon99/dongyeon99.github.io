@@ -81,4 +81,11 @@ permalink: About/career
 
 <br/>
 
+### ㆍThe 20th KOGO Winter Symposium
+##### January 31 (Wed) - February 02 (Fri), 2024
+##### Vivaldi Park, Hongcheon-gun, Gangwon-do, Korea
+##### Poster: Identifying microRNAs associated with tumor immunotherapy response using an interpretable machine learning model
+
+
+
 
