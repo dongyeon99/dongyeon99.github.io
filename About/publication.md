@@ -13,6 +13,6 @@ permalink: About/publication
 <br/>
 
 #### Identifying microRNAs associated with tumor immunotherapy response using an interpretable machine learning model. (Scientific Reports,14:6172,2024)
-  * [Click to view (Paper)]((https://www.nature.com/articles/s41598-024-56843-3#citeas))
+  * [Click to view (Paper)](https://www.nature.com/articles/s41598-024-56843-3#citeas)
   * [Click to view (Github)](https://github.com/dongyeon99/ML_immunotherapy_response/)
 
