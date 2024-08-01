@@ -7,6 +7,16 @@ permalink: About/career
 
 <br/>
 
+# Work Experience
+
+### Marcrogen
+#### Seoul, Korea
+#### Aug.2024 - Present
+#### Service Development Department
+
+
+<br/>
+
 # Education
 
 ### Soongsil University
@@ -19,7 +29,7 @@ permalink: About/career
 
 ### Soongsil University
 #### Seoul, Korea
-#### Sep.2022 - present, Ungraduate
+#### Sep.2022 - Aug.2024, Graduate
 #### Master of Science in School of Bioinfomatics
 
 <br/>
