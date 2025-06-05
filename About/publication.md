@@ -16,3 +16,7 @@ permalink: About/publication
   * [Click to view (Paper)](https://www.nature.com/articles/s41598-024-56843-3#citeas)
   * [Click to view (Github)](https://github.com/dongyeon99/ML_immunotherapy_response/)
 
+<br/>
+
+#### Unraveling the three-dimensional genome structure using machine learning. (BMB Reports 58(5): 203-208, 2025)
+   * [Click to view (Paper)](https://www.bmbreports.org/journal/view.html?uid=2129&vmd=Full)
