@@ -22,7 +22,7 @@ permalink: About/project
 # Team Project
 
 #### 1. Development of next-generation genomic application technology for 4D-nucleome-based cardiomyopathy. (Sep.2022 - Aug.2024)
-   - Jiho Lee, Hye-Lim Mo, Yoon Ha, Dong Yeon Nam, Geumnim Lim, Jeong-Woon Park, Seoyoung Park, Woo-Young Choi, Hyun Ji Lee, Je-Keun Rhee, Unraveling the three-dimensional genome structure using machine learning, BMB Reports 58(5): 203-208, 2025.
+   - Unraveling the three-dimensional genome structure using machine learning, BMB Reports 58(5): 203-208, 2025.
 
 
 <br/>

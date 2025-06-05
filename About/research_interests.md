@@ -6,7 +6,7 @@ permalink: About/research_interests
 
 <br/>
 
-### Bio Artificial Intelligence, ML
+### Bio Artificial Intelligence, ML & Deep Learning
 
 <br/>
 
