@@ -9,7 +9,7 @@ permalink: About/career
 
 # Work Experience
 
-### Macrogen
+### Macrogen, Inc
 #### Seoul, Korea
 #### Aug.2024 - Present
 #### Service Development Department
