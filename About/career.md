@@ -10,92 +10,88 @@ permalink: About/career
 # Work Experience
 
 ### Macrogen, Inc 
-#### Seoul, Korea
-#### Aug.2024 - Present
-#### Service Development Department
-
+**Seoul, Korea**  
+*Aug. 2024 - Present*  
+Service Development Department
 
 <br/>
 
 # Education
 
 ### Soongsil University
-#### Seoul, Korea
-#### Mar.2015 - Feb.2022, Graduate
-#### Bachelor of Science in School of Systems Biomedical Science
-#### B.S. Major: Bioinformatics and Biotechnology
+**Seoul, Korea**  
+*Mar. 2015 - Feb. 2022*  
+Bachelor of Science in School of Systems Biomedical Science  
+**Major:** Bioinformatics and Biotechnology
 
 <br/>
 
 ### Soongsil University
-#### Seoul, Korea
-#### Sep.2022 - Aug.2024, Graduate
-#### Master of Science in School of Bioinfomatics
+**Seoul, Korea**  
+*Sep. 2022 - Aug. 2024*  
+Master of Science in School of Bioinformatics
 
 <br/>
 
 # Research Experience
 
-###  Biomedical Data Science Laboratory, Soongsil University (SSU)
-#### ㆍUndergraduate Research Assistant, Mar.2021 - Feb.2022
-#### ㆍResearcher, Mar.2022 - Aug.2022
-#### Advisor: Prof. Je-Keun Rhee
+### Biomedical Data Science Laboratory, Soongsil University (SSU)
+- **Undergraduate Research Assistant:** Mar. 2021 - Feb. 2022
+- **Researcher:** Mar. 2022 - Aug. 2022  
+Advisor: Prof. Je-Keun Rhee
 
 <br/>
 
-# Skill And Techniques
-### Software Language
-####  R, Python
-### Computer Skill
-#### Linux
+# Skills and Techniques
 
+### Software Languages
+- R
+- Python
+
+### Computer Skills
+- Linux
+
+<br/>  
+
+# Certifications
+
+- **AI AICE Associate**  
+  *July 12, 2025*
 
 <br/>
 
 # Awards
 
-### ㆍ This year's Natural Science Research Encouragement Award
-##### December 9 (Fri), 2022
-##### College of Natural Sciences, Soongsil University 
+- **This year's Natural Science Research Encouragement Award**  
+  *December 9, 2022*  
+  College of Natural Sciences, Soongsil University
 
 
 <br/>
 
 # WorkShop & Conference
 
-### ㆍ16th Asian Institute in Statistical Genetics and Genomics Workshop 
-##### July 18 (Mon) - 23 (Sat), 2022
-##### Seoul National University, Global Education Center For Engineers
-##### PROGRAM: 3D Epigenome Data Analysis & Machine Learning for Bio-data Mining
+- **16th Asian Institute in Statistical Genetics and Genomics Workshop**  
+  *July 18 - 23, 2022*  
+  Seoul National University, Global Education Center For Engineers  
+  **Program:** 3D Epigenome Data Analysis & Machine Learning for Bio-data Mining
 
-<br/>
+- **2022 Annual Conference of Korean Society for Bioinformatics**  
+  *October 19 - 21, 2022*  
+  KAIST, Daejeon, Korea
 
-### ㆍ2022 Annual Conference of Korean Society for Bioinformatics
-##### October 19 (Wed) - 21 (Fri), 2022
-##### KAIST, Daejeon, Korea
+- **The 19th KOGO Winter Symposium**  
+  *February 01 - 03, 2023*  
+  Vivaldi Park, Hongcheon-gun, Gangwon-do, Korea  
+  **Workshop:** Shotgun Metagenomics Analysis
 
-<br/>
+- **2023 Annual Conference of Korean Society for Bioinformatics [BIOINFO 2023]**  
+  *November 13 - 15, 2023*  
+  SONO CALM YEOSU, Korea  
+  **Poster:** Identifying microRNAs associated with tumor immunotherapy response using an interpretable machine learning model
 
-### ㆍThe 19th KOGO Winter Symposium
-##### February 01 (Wed) - 03 (Fri), 2023
-##### Vivaldi Park, Hongcheon-gun, Gangwon-do, Korea
-##### Workshop: Shotgun Metagenomics Analysis
-
-<br/>
-
-### ㆍ2023 Annual Conference of Korean Society for Bioinfomatics [BIOINFO 2023] 
-##### November 13 (Mon) - 15 (Wed), 2023
-##### SONO CALM YEOSU, Korea
-##### Poster: Identifying microRNAs associated with tumor immunotherapy response using an interpretable machine learning model
-
-
-<br/>
-
-### ㆍThe 20th KOGO Winter Symposium
-##### January 31 (Wed) - February 02 (Fri), 2024
-##### Vivaldi Park, Hongcheon-gun, Gangwon-do, Korea
-##### Poster: Identifying microRNAs associated with tumor immunotherapy response using an interpretable machine learning model
-
-
-
+- **The 20th KOGO Winter Symposium**  
+  *January 31 - February 02, 2024*  
+  Vivaldi Park, Hongcheon-gun, Gangwon-do, Korea  
+  **Poster:** Identifying microRNAs associated with tumor immunotherapy response using an interpretable machine learning model
 
